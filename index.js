@@ -20,4 +20,8 @@ import './redux-core/basic.js';
 
 // store.dispatch({ type: 'counter/incremented' })
 
-// console.log(document.getElementById('app'));
+// console.log(document.getElementById('incBtn'));
+
+// const incBtn = document.getElementById('incBtn');
+
+// console.log(incBtn);
